@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## 开发小记
+frontpage安装文件地址
+http://tieba.baidu.com/p/5813575041
+
+
 
 You can use the [editor on GitHub](https://github.com/qgb1151521/osu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
